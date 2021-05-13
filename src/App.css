@@ -1,4 +1,9 @@
 .App {
+  width: 40%;
+  margin: auto;
+}
+
+.header {
   text-align: center;
 }
 
